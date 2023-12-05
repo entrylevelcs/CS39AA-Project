@@ -1,0 +1,145 @@
+NUMBER OF EPOCHS FOR ALL RUNS: 3
+
+RUN 1
+batch size: 128
+learning rate: 1e-5
+weight decay = 0.4
+
+real eval_loss = 0.447
+real eval_accuracy = 0.818
+real eval_precision = 0.669
+real eval_recall = 0.818
+real eval_f1 = 0.736
+simulated eval_loss = 0.602
+simulated eval_accuracy = 0.700
+simulated eval_precision = 0.796
+simulated eval_recall = 0.700
+simulated eval_f1 = 0.731
+
+RUN 2
+batch size: 128
+learning rate: 1e-6
+weight decay = 0.4
+
+real eval_loss = 0.713
+real eval_accuracy = 0.445
+real eval_precision = 0.704
+real eval_recall = 0.445
+real eval_f1 = 0.500
+simulated eval_loss = 0.935
+simulated eval_accuracy = 0.182
+simulated eval_precision = 0.033
+simulated eval_recall = 0.182
+simulated eval_f1 = 0.056
+
+RUN 3
+batch size: 8
+learning rate: 1e-2
+weight decay = 0.4
+
+real eval_loss = 0.475
+real eval_accuracy = 0.818
+real eval_precision = 0.669
+real eval_recall = 0.818
+real eval_f1 = 0.736
+simulated eval_loss = 0.787
+simulated eval_accuracy = 0.182
+simulated eval_precision = 0.033
+simulated eval_recall = 0.182
+simulated eval_f1 = 0.056
+
+RUN 4
+batch size: 32
+learning rate: 1e-4
+weight decay = 0.4
+
+real eval_loss = 0.481
+real eval_accuracy = 0.845
+real eval_precision = 0.825
+real eval_recall = 0.845
+real eval_f1 = 0.823
+simulated eval_loss = 1.462
+simulated eval_accuracy = 0.667
+simulated eval_precision = 0.799
+simulated eval_recall = 0.667
+simulated eval_f1 = 0.704
+
+RUN 5
+batch size: 256
+learning rate: 1e-4
+weight decay = 0.5
+
+real eval_loss = 0.372
+real eval_accuracy = 0.854
+real eval_precision = 0.838
+real eval_recall = 0.854
+real eval_f1 = 0.835
+simulated eval_loss = 0.763
+simulated eval_accuracy = 0.748
+simulated eval_precision = 0.806
+simulated eval_recall = 0.748
+simulated eval_f1 = 0.768
+
+RUN 6
+batch size: 128
+learning rate: 1e-5
+weight decay = 0.5
+
+real eval_loss = 0.445
+real eval_accuracy = 0.818
+real eval_precision = 0.669
+real eval_recall = 0.818
+real eval_f1 = 0.736
+simulated eval_loss = 0.495
+simulated eval_accuracy = 0.773
+simulated eval_precision = 0.787
+simulated eval_recall = 0.773
+simulated eval_f1 = 0.779
+
+RUN 7
+batch size: 32
+learning rate: 1e-5
+weight decay = 0.1
+
+real eval_loss = 0.355
+real eval_accuracy = 0.850
+real eval_precision = 0.832
+real eval_recall = 0.850
+real eval_f1 = 0.827
+simulated eval_loss = 1.020
+simulated eval_accuracy = 0.726
+simulated eval_precision = 0.805
+simulated eval_recall = 0.726
+simulated eval_f1 = 0.751
+
+RUN 8
+batch size: 128
+learning rate: 1e-4
+weight decay = 0.3
+
+real eval_loss = 0.351
+real eval_accuracy = 0.858
+real eval_precision = 0.843
+real eval_recall = 0.858
+real eval_f1 = 0.843
+simulated eval_loss = 1.064
+simulated eval_accuracy = 0.718
+simulated eval_precision = 0.808
+simulated eval_recall = 0.718
+simulated eval_f1 = 0.746
+
+RUN 9
+batch size: 32
+learning rate: 1e-4
+weight decay = 0.0
+
+real eval_loss = 0.479
+real eval_accuracy = 0.859
+real eval_precision = 0.845
+real eval_recall = 0.859
+real eval_f1 = 0.844
+simulated eval_loss = 1.761
+simulated eval_accuracy = 0.687
+simulated eval_precision = 0.798
+simulated eval_recall = 0.687
+simulated eval_f1 = 0.720
